@@ -1,45 +1,53 @@
-﻿/*Project: Lab 2 Batting Average
- *   Date: 11-13-2017
- * Author: B.Scott
- */
+﻿
+
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lab2_batting_average
+namespace Lab_3___BMI_Calculator
 {
     class Program
     {
         static void Main(string[] args)
         {
-           
-            //variable declaration
-            string strPlayerName;
-            int nHits, nAtBats;
-            double dblBattingAverage;
+            //declare variables
+            double dblHeight;
+            double dblWeight;
+            double dblBMI;
 
             //prompt user
-            Console.WriteLine("---Calculating Batting Average---");
-            Console.WriteLine("Enter the player's name: ");
-            strPlayerName = Console.ReadLine();
-            
-            //prompt user for hits
-            Console.WriteLine("Enter the player's # of hits: ");
-            nHits = Convert.ToInt32 (Console.ReadLine());
+            Console.Write("Enter your Height in inches: ");
+            dblHeight = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Enter your Weight in pounds: ");
+            dblWeight = Convert.ToDouble(Console.ReadLine());
 
-            //prompt user for at bats
-            Console.WriteLine("Enter the player's # of at bats: ");
-            nAtBats = Convert.ToInt32(Console.ReadLine());
+            //calculations
+            dblBMI = (dblWeight * 703) / (dblHeight * dblHeight);
 
-            //calculation
-            dblBattingAverage = (double)nHits / nAtBats;
+            //display result
+            Console.WriteLine("Your BMI is " + dblBMI);
 
-            //display results
-            Console.WriteLine(strPlayerName + "'s batting average is " + dblBattingAverage);
+            //display message
+            if(dblBMI < 18.5)
+            {
+                Console.WriteLine("BMI < 18.5 - Underweight");
+            }
+            else if(dblBMI <= 24.9)
+            {
+                Console.WriteLine("BMI between 18.5 and 24.9 - Normal");
+            }
+            else if(dblBMI <= 29.9)
+            {
+                Console.WriteLine("BMI between 25 and 29.9 - Overweight");
+            }
+            else
+            {
+                Console.WriteLine("BMI >= 30 - Obese");
+            }
             Console.ReadLine();
-
         }
     }
 }
