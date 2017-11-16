@@ -1,0 +1,7 @@
+C:\Projects\SD-104 C#\Lab2_batting average\bin\Debug\Lab2_batting average.exe.config
+C:\Projects\SD-104 C#\Lab2_batting average\bin\Debug\Lab2_batting average.exe
+C:\Projects\SD-104 C#\Lab2_batting average\bin\Debug\Lab2_batting average.pdb
+C:\Projects\SD-104 C#\Lab2_batting average\obj\Debug\Lab2_batting average.csprojResolveAssemblyReference.cache
+C:\Projects\SD-104 C#\Lab2_batting average\obj\Debug\Lab2_batting average.csproj.CoreCompileInputs.cache
+C:\Projects\SD-104 C#\Lab2_batting average\obj\Debug\Lab2_batting average.exe
+C:\Projects\SD-104 C#\Lab2_batting average\obj\Debug\Lab2_batting average.pdb

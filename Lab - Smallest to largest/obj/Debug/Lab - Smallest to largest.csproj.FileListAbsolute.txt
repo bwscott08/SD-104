@@ -1,0 +1,7 @@
+C:\Projects\SD-104 C#\Lab - Smallest to largest\bin\Debug\Lab - Smallest to largest.exe.config
+C:\Projects\SD-104 C#\Lab - Smallest to largest\bin\Debug\Lab - Smallest to largest.exe
+C:\Projects\SD-104 C#\Lab - Smallest to largest\bin\Debug\Lab - Smallest to largest.pdb
+C:\Projects\SD-104 C#\Lab - Smallest to largest\obj\Debug\Lab - Smallest to largest.csprojResolveAssemblyReference.cache
+C:\Projects\SD-104 C#\Lab - Smallest to largest\obj\Debug\Lab - Smallest to largest.csproj.CoreCompileInputs.cache
+C:\Projects\SD-104 C#\Lab - Smallest to largest\obj\Debug\Lab - Smallest to largest.exe
+C:\Projects\SD-104 C#\Lab - Smallest to largest\obj\Debug\Lab - Smallest to largest.pdb

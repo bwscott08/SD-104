@@ -1,0 +1,7 @@
+C:\Projects\SD-104 C#\Lab 6 Parallel arrays\bin\Debug\Lab 6 Parallel arrays.exe.config
+C:\Projects\SD-104 C#\Lab 6 Parallel arrays\bin\Debug\Lab 6 Parallel arrays.exe
+C:\Projects\SD-104 C#\Lab 6 Parallel arrays\bin\Debug\Lab 6 Parallel arrays.pdb
+C:\Projects\SD-104 C#\Lab 6 Parallel arrays\obj\Debug\Lab 6 Parallel arrays.csprojResolveAssemblyReference.cache
+C:\Projects\SD-104 C#\Lab 6 Parallel arrays\obj\Debug\Lab 6 Parallel arrays.csproj.CoreCompileInputs.cache
+C:\Projects\SD-104 C#\Lab 6 Parallel arrays\obj\Debug\Lab 6 Parallel arrays.exe
+C:\Projects\SD-104 C#\Lab 6 Parallel arrays\obj\Debug\Lab 6 Parallel arrays.pdb

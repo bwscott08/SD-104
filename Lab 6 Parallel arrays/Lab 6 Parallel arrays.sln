@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 6 Parallel arrays", "Lab 6 Parallel arrays.csproj", "{DFAFE393-8D74-4D53-B982-18A26EE920CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFAFE393-8D74-4D53-B982-18A26EE920CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFAFE393-8D74-4D53-B982-18A26EE920CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFAFE393-8D74-4D53-B982-18A26EE920CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFAFE393-8D74-4D53-B982-18A26EE920CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {958B3E62-6588-4AAE-B609-4711DBE58544}
+	EndGlobalSection
+EndGlobal
