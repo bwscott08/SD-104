@@ -1,0 +1,7 @@
+C:\Projects\SD-104 C#\Homework 4 Fantasy football\bin\Debug\Homework 4 Fantasy football.exe.config
+C:\Projects\SD-104 C#\Homework 4 Fantasy football\bin\Debug\Homework 4 Fantasy football.exe
+C:\Projects\SD-104 C#\Homework 4 Fantasy football\bin\Debug\Homework 4 Fantasy football.pdb
+C:\Projects\SD-104 C#\Homework 4 Fantasy football\obj\Debug\Homework 4 Fantasy football.csprojResolveAssemblyReference.cache
+C:\Projects\SD-104 C#\Homework 4 Fantasy football\obj\Debug\Homework 4 Fantasy football.csproj.CoreCompileInputs.cache
+C:\Projects\SD-104 C#\Homework 4 Fantasy football\obj\Debug\Homework 4 Fantasy football.exe
+C:\Projects\SD-104 C#\Homework 4 Fantasy football\obj\Debug\Homework 4 Fantasy football.pdb
