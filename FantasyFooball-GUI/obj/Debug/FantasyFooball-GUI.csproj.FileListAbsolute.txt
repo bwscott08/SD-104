@@ -1,0 +1,10 @@
+C:\Projects\SD-104 C#\FantasyFooball-GUI\bin\Debug\FantasyFooball-GUI.exe.config
+C:\Projects\SD-104 C#\FantasyFooball-GUI\bin\Debug\FantasyFooball-GUI.exe
+C:\Projects\SD-104 C#\FantasyFooball-GUI\bin\Debug\FantasyFooball-GUI.pdb
+C:\Projects\SD-104 C#\FantasyFooball-GUI\obj\Debug\FantasyFooball-GUI.csprojResolveAssemblyReference.cache
+C:\Projects\SD-104 C#\FantasyFooball-GUI\obj\Debug\FantasyFooball_GUI.Form1.resources
+C:\Projects\SD-104 C#\FantasyFooball-GUI\obj\Debug\FantasyFooball_GUI.Properties.Resources.resources
+C:\Projects\SD-104 C#\FantasyFooball-GUI\obj\Debug\FantasyFooball-GUI.csproj.GenerateResource.Cache
+C:\Projects\SD-104 C#\FantasyFooball-GUI\obj\Debug\FantasyFooball-GUI.csproj.CoreCompileInputs.cache
+C:\Projects\SD-104 C#\FantasyFooball-GUI\obj\Debug\FantasyFooball-GUI.exe
+C:\Projects\SD-104 C#\FantasyFooball-GUI\obj\Debug\FantasyFooball-GUI.pdb
